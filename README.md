@@ -1,4 +1,4 @@
-# 🎮 Minecraft 3D Skin Viewer (Html)
+# 🎮 Minecraft 3D Skin Viewer
 
 This project is an interactive 3D display of Minecraft skins for use in web services.
 
