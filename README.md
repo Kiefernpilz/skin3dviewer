@@ -1,6 +1,6 @@
 # 🎮 Minecraft 3D Skin Viewer (Html)
 
-This project is an interactive 3D display of Minecraft skins.
+This project is an interactive 3D display of Minecraft skins for use in web services.
 
 ---
 
@@ -8,13 +8,14 @@ This project is an interactive 3D display of Minecraft skins.
 
 The skin viewer allows you to display any player's skin by simply appending their username to the base URL.
 
-https://[your_domain]/{username}
+`www.[your_domain]/{username}`
 
 
 **Example:**
 
-* To view the skin for player **"Notch"**:
-  `https://example.com/Notch`
+View player skin **"Notch"**:
+
+`www.example.com/Notch`
 
 ---
 
